@@ -3,6 +3,7 @@
   "main": "./lib/main",
   "version": "0.1.0",
   "description": "Fast git grep provider for nuclide-quick-open.",
+  "repository": "https://github.com/viatsko/git-grep-provider",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
