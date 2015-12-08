@@ -1,0 +1,5 @@
+'.platform-darwin atom-workspace':
+  'cmd-alt-g': 'git-grep-provider:toggle-provider'
+
+'.platform-win32 atom-workspace, .platform-linux atom-workspace':
+  'ctrl-alt-g': 'git-grep-provider:toggle-provider'
